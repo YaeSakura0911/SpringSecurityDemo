@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:mysql://mysql.yaesakura.eu.org:3306/spring-security-demo
+    username: root
+    password: 2000GL911j..
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+mybatis-plus:
+  configuration:
+    map-underscore-to-camel-case: true
